@@ -1,0 +1,6 @@
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1001\1001\bin\Debug\1001.exe.config
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1001\1001\bin\Debug\1001.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1001\1001\bin\Debug\1001.pdb
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1001\1001\obj\Debug\1001.csprojResolveAssemblyReference.cache
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1001\1001\obj\Debug\1001.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1001\1001\obj\Debug\1001.pdb

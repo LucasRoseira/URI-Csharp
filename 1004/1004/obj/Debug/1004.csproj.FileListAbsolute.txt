@@ -1,0 +1,5 @@
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1004\1004\bin\Debug\1004.exe.config
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1004\1004\bin\Debug\1004.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1004\1004\bin\Debug\1004.pdb
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1004\1004\obj\Debug\1004.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1004\1004\obj\Debug\1004.pdb
