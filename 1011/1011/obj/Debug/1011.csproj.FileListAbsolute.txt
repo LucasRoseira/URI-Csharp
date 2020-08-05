@@ -1,0 +1,5 @@
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1011\1011\bin\Debug\1011.exe.config
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1011\1011\bin\Debug\1011.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1011\1011\bin\Debug\1011.pdb
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1011\1011\obj\Debug\1011.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1011\1011\obj\Debug\1011.pdb

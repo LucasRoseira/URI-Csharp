@@ -1,0 +1,6 @@
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1015\1015\bin\Debug\1015.exe.config
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1015\1015\bin\Debug\1015.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1015\1015\bin\Debug\1015.pdb
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1015\1015\obj\Debug\1015.csprojResolveAssemblyReference.cache
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1015\1015\obj\Debug\1015.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1015\1015\obj\Debug\1015.pdb

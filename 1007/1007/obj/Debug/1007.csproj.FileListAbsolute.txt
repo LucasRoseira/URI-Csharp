@@ -1,0 +1,6 @@
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1007\1007\bin\Debug\1007.exe.config
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1007\1007\bin\Debug\1007.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1007\1007\bin\Debug\1007.pdb
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1007\1007\obj\Debug\1007.csprojResolveAssemblyReference.cache
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1007\1007\obj\Debug\1007.exe
+C:\Users\lucas_000\Desktop\Meus arquivos\C#\1007\1007\obj\Debug\1007.pdb
